@@ -1,10 +1,14 @@
 # booktrails
 A simple website for creating curriculum: directed sequences of books
 
+# Concepts
+
+If I've read "X", what can I then read next?
+
 ## UI
 
 * v0 - linear lists (e.g. https://linkmix.co/en)
-* v1 - DAGs
+* v1 - DAGs, proposals / recommendations from others
 
 ## Schema
 
